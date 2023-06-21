@@ -6,19 +6,19 @@
 
 [https://www.youtube.com/embed/videoseries?list=PLu3xpmdUP-GRDp8tknpXC_Y4RUQtMMqEu](https://www.youtube.com/embed/videoseries?list=PLu3xpmdUP-GRDp8tknpXC_Y4RUQtMMqEu)
 
-### [终极GameBoy谈](https://media.ccc.de/v/33c3-8029-the_ultimate_game_boy_talk)
+### [终极 GameBoy 谈](https://media.ccc.de/v/33c3-8029-the_ultimate_game_boy_talk)
 
 [https://www.youtube.com/embed/HyzD8pNlpwI](https://www.youtube.com/embed/HyzD8pNlpwI)
 
 > ### 解疑
 > 
-> #### GameBoy前进
+> #### GameBoy 前进
 > 
 > Game Boy 高级开发被另一个项目覆盖， [awesome-GBAdev 列表。然而，GBA 可以运行 GB/GBC 游戏。与本机硬件相比，它的实现方式略有不同。这包括在这个列表的模拟器开发部分。](https://github.com/gbdev/awesome-gbadev)
 > 
-> #### GameBoy颜色和超级GameBoy
+> #### GameBoy 颜色和超级 GameBoy
 > 
-> 这份名单集中在最初的(1989 年)GameBoy(DMG)，GameBoy颜色(T0)和超级GameBoy(T3)是非常相似的系统，有一些重要的区别，例如:
+> 这份名单集中在最初的(1989 年)GameBoy(DMG)，GameBoy 颜色(T0)和超级 GameBoy(T3)是非常相似的系统，有一些重要的区别，例如:
 > 
 > *   不同的硬件规格
 > *   特定的硬件和软件功能
@@ -39,7 +39,7 @@
 *   [GB-操作码](https://gbdev.github.io/gb-opcodes/optables/) -操作码表
 *   [RGBDS 操作码引用](https://rgbds.gbdev.io/docs/gbz80.7) ——所有指令的引用，包括简短描述、周期和字节计数，以及对标志修改的解释。
 
-### GameBoy颜色
+### GameBoy 颜色
 
 *   [自举 ROM](https://tcrf.net/Game_Boy_Color_Bootstrap_ROM)
 *   [未使用的调色板](https://tcrf.net/Notes:Game_Boy_Color_Bootstrap_ROM)
@@ -67,7 +67,7 @@
     *   [Zok Zok Heroes](https://shonumi.github.io/articles/art8.html)——Zok Zok Heroes 的全换器，一个动作激活的配件。
     *   [红外疯狂](https://shonumi.github.io/articles/art11.html) ——游戏上的红外通讯男孩色。
     *   [Game Boy 4 人适配器](https://shonumi.github.io/articles/art9.html) - DMG-07。
-    *   [条码男孩](https://shonumi.github.io/articles/art7.html)——第一个GameBoy的卡片扫描仪。
+    *   [条码男孩](https://shonumi.github.io/articles/art7.html)——第一个 GameBoy 的卡片扫描仪。
     *   [条形码泰森 Bardigun](https://shonumi.github.io/articles/art6.html) ——一款 90 年代末的 DMG-GBC 条形码阅读器。
 *   [DMG-07 技术文档](https://raw.githubusercontent.com/shonumi/gbe-plus/master/src/docs/technical/DMG_07.txt)
 *   [Game Boy Camera RE](https://github.com/AntonioND/gbcam-rev-engineer) ——关于 GB Camera 的文档以及使用 Arduino 对其进行逆向工程的工具。
@@ -75,7 +75,7 @@
 *   [Game Boy 打印机](https://shonumi.github.io/articles/art2.html) ——一份关于打印机硬件、通信协议和游戏用于实现打印功能的常用例程的深入技术文档。
 *   [Ben Heck 逆向工程师 Game Boy 打印机](https://www.youtube.com/watch?v=43FfJvd-YP4) (勘误:使用过的热敏纸过期，实际可打印 4 色)。
 *   [Arduino Game Boy 打印机模拟器](https://github.com/mofosyne/arduino-gameboy-printer-emulator) -通过 Game Boy Link 线缆用 Arduino 模拟 Game Boy 打印机。
-*   [手机GameBoy适配器](https://bulbapedia.bulbagarden.net/wiki/Mobile_Game_Boy_Adapter)
+*   [手机 GameBoy 适配器](https://bulbapedia.bulbagarden.net/wiki/Mobile_Game_Boy_Adapter)
 *   [GB KISS LINK MODEM](http://nectaris.tg-16.com/GB-KISS-LINK-FAQ-hudson-gameboy-nectaris.html)
 
 ### 子弹
@@ -207,14 +207,14 @@
 *   [romusage](https://github.com/bbbbbr/romusage) -命令行工具，用于从地图中估算 Game Boy ROMs 的使用量(空闲空间)。noi 或 ihx 文件。与 GBDK-2020 和 RGBDS 合作。
 *   [清醒](https://github.com/devdri/awake)——Game Boy 反编译程序。
 *   [Game Boy 文本工具](https://github.com/raphaklaus/gameboy-text-tools) -一套用于文本操作和翻译 Node.js 中编写的 Game Boy ROMs 的工具
-*   evscript ——GameBoy的脚本语言，对敌方 AI、对话、动画和协程有用。
+*   evscript ——GameBoy 的脚本语言，对敌方 AI、对话、动画和协程有用。
 *   [evunit](https://github.com/eievui5/evunit) -一个针对汇编代码的单元测试程序。
 
 #### 图形实用程序
 
 *   [Game Boy 图块数据生成器](https://github.com/chrisantonellis/gbtdg) - HTML5 / JS web 应用程序，将位图图像转换为适合在基于图块的图形应用程序中使用的十六进制数据，特别是 GB。
 *   [哈利莫特的 GB 开发](http://www.devrs.com/gb/hmgd/intro.html) ——Game Boy Tile Designer(GBTD)和 Game Boy Map Builder (GBMB)工具的一些来源和主页。
-*   [GBTiles](https://github.com/bashaus/gbtiles) ——转换。GBR 文件创建与哈利莫特的瓷砖设计师(GBTD)和。用哈利·莫特的地图构建器(GBMB)创建的 GBM 文件被转换成不同的格式用于GameBoy和 GBDK。
+*   [GBTiles](https://github.com/bashaus/gbtiles) ——转换。GBR 文件创建与哈利莫特的瓷砖设计师(GBTD)和。用哈利·莫特的地图构建器(GBMB)创建的 GBM 文件被转换成不同的格式用于 GameBoy 和 GBDK。
 *   [bmp2cgb](https://github.com/gitendo/bmp2cgb) -为 Game Boy 色彩开发提供实时调色板调整的图形转换器。
 *   [png2gb](https://github.com/LuckyLights/png2gb) - CLI 工具将图像文件转换为 game boy。c 数组。
 *   [GB-转换](https://github.com/exezin/gb-convert) - Game Boy 磁贴转换和地图编辑工具(转换为汇编)。
@@ -257,10 +257,10 @@
 *   [hardware.inc](https://github.com/tobiasvl/hardware.inc) -标准包含文件，包含用于 RGBDS 项目的 Game Boy 硬件定义。
 *   [大卫·佩洛 的组装教程](https://gb-archive.github.io/salvage/tutorial_de_ensamblador/tutorial_de_ensamblador_la_decadence.html) -学习为 gb 生成工作 asm 代码的好文档。许多重要主题的简要说明。许多带有注释源代码的例子。
 *   [assemblydigest](https://github.com/assemblydigest/gameboy) -探索 Game Boy 编程技巧:
-    *   [制作一个空GameBoy ROM(在 Wiz)](http://assemblydigest.tumblr.com/post/77203696711/tutorial-making-an-empty-game-boy-rom-in-wiz)
-    *   [为GameBoy制作美术](http://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy)
+    *   [制作一个空 GameBoy ROM(在 Wiz)](http://assemblydigest.tumblr.com/post/77203696711/tutorial-making-an-empty-game-boy-rom-in-wiz)
+    *   [为 GameBoy 制作美术](http://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy)
 *   [逆向工程入门指南 GB](https://web.archive.org/web/20150511145100/http://www.bennvenn.com/Beginners_Guide_To_Reverse_Engineering.htm)——反汇编和逆向工程的一些入门技巧。
-*   [FlappyBoy:制作简单的GameBoy游戏](http://voidptr.io/blog/2017/01/21/GameBoy.html)
+*   [FlappyBoy:制作简单的 GameBoy 游戏](http://voidptr.io/blog/2017/01/21/GameBoy.html)
 *   [超级游戏王开发](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html)——一步一步教程实现超级游戏王功能(框架和调色板)。
 *   [GameBoy 编程教程:Hello World！](https://peterwynroberts.wordpress.com/2014/05/11/gameboy-programming-tutorial-hello-world/) ——循序渐进教程。
 *   [DMGreport](https://github.com/lancekindle/DMGreport)——游戏编程教程在汇编。
@@ -277,7 +277,7 @@
 
 #### 计时
 
-*   [细节GameBoy循环计时](http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt)
+*   [细节 GameBoy 循环计时](http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt)
 *   [Mode3 雪碧定时](https://www.reddit.com/r/EmuDev/comments/59pawp/gb_mode3_sprite_timing/)
 *   [GameBoy Color DMA-Transfers v 0 . 0 . 1](http://gameboy.mongenel.com/dmg/gbc_dma_transfers.txt)
 *   [STAT 中断计时](http://gameboy.mongenel.com/dmg/istat98.txt)
@@ -285,7 +285,7 @@
 
 #### 样板文件和库
 
-*   [rgbds-模板](https://github.com/nezticle/rgbds-template) -GameBoy使用 RGBDS 的基本 hello-world 示例。
+*   [rgbds-模板](https://github.com/nezticle/rgbds-template) -GameBoy 使用 RGBDS 的基本 hello-world 示例。
 *   [Game Boy 汇编语言入门](http://www.devrs.com/gb/files/galp.zip) ——简单的模板代码，带有内存定义，复制例程和 IBM 字体 tilemap。
 *   [bootstrap.gb](https://github.com/yenatch/bootstrap.gb) ——一个 Game Boy 项目的例子。
 *   [Gameboy 样板文件](https://github.com/junebug12851/GameboyBoilerplateProj) ——样板文件项目可以更快地移入游戏的实际汇编代码。
@@ -297,10 +297,10 @@
 
 #### 语法突出显示包
 
-*   [RGBASM的 Atom 语言包](https://atom.io/packages/language-rgbasm)-RGBDS 汇编的 Atom 语法高亮显示。
+*   [RGBASM 的 Atom 语言包](https://atom.io/packages/language-rgbasm)-RGBDS 汇编的 Atom 语法高亮显示。
 *   [gbz 80-高亮显示](https://github.com/ISSOtm/gbz80-highlight) -记事本+-和 gedit 语法高亮显示 RGBDS 汇编文件。
 *   [Game Boy 汇编程序的 Vim 语法文件 RGBASM](https://www.vim.org/scripts/script.php?script_id=819) -RGBDS 汇编程序的 Vim 语法高亮显示。
-*   [RGBDS的 Vim 语法文件](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) -RGBDS 装配的另一个 Vim 语法高亮文件。
+*   [RGBDS 的 Vim 语法文件](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) -RGBDS 装配的另一个 Vim 语法高亮文件。
 *   [sublime-rgbds](https://packagecontrol.io/packages/RGBDS) -Sublime Text 3 包用于 rgbds，包括语法突出显示和一些完成片段。
 *   [Z80 汇编支持 Visual Studio 代码](https://github.com/Imanolea/z80asm-vscode)
 *   [rgbds-vscode](https://github.com/DonaldHays/rgbds-vscode) -Visual Studio Code 语言扩展为 RGBDS GBZ80 汇编。
@@ -314,7 +314,7 @@
 *   [只是另一个简单的教程](https://pastebin.com/gzT47MPJ)
 *   [GBDK 教程](https://refreshgames.co.uk/2016/04/18/gameboy-tutorial-rom/)——相当简单的 GBDK 入门游戏演示。
 *   [GBDK 精灵](http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial) ——展示了一个让多个精灵显示和动画的工作流程。
-*   [GBDK 颜色](http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial) -通过给精灵、背景和窗口层添加颜色，扩展您对GameBoy基本精灵的了解。
+*   [GBDK 颜色](http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial) -通过给精灵、背景和窗口层添加颜色，扩展您对 GameBoy 基本精灵的了解。
 *   [GBDK 游戏手柄](http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial) -详细介绍 GBDK 游戏手柄的使用。
 *   [Game Boy 首页的味道](https://web.archive.org/web/20210427064949/www.personal.triticom.com/~erm/GameBoy/)——一些完整的游戏和源码。
 *   [GBDK 配置和编程教程](https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/)——配置 GBDK、使用磁贴、碰撞精灵、GBTD、GBMB、内存管理和 ROM 银行。
@@ -344,7 +344,7 @@
 *   [Adjustris](https://github.com/tbsp/Adjustris)
 *   [exeman](https://github.com/exezin/exeman/)
 *   [](https://github.com/ISSOtm/Aevilia-GB)
-*   -一个简单的GameBoy幻灯片浏览器。
+*   -一个简单的 GameBoy 幻灯片浏览器。
 *   [Pokered-gbc](https://github.com/dannye/pokered-gbc) -神奇宝贝红色翻拍，完全支持 gbc。
 *   [ToyToy](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 *   [斯蒂芬](https://github.com/tslanina/Retro-GameBoyColor-StefaN) ——四路突围克隆。
@@ -379,20 +379,20 @@
 *   [泡工厂](https://github.com/DonaldHays/bubblefactory)-*香草- SDCC(无 gbdk)。
 *   [GBC 雅达利拳击](https://github.com/rubfi/gbc-atari-boxing) -雅达利 2600 拳击克隆体(颜色为 Game Boy)。
 *   [GB raycaster，Vision-8](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) ——以及其他一些项目。
-*   [Tobu Tobu Girl 豪华版](https://github.com/SimonLarsen/tobutobugirl-dx)——一个街机平台的GameBoy(彩色)。
+*   [Tobu Tobu Girl 豪华版](https://github.com/SimonLarsen/tobutobugirl-dx)——一个街机平台的 GameBoy(彩色)。
 *   [魁梧大熊 vs 卑鄙狐狸](http://sebastianmihai.com/gameboy-burly-bear.html)([GBC](http://sebastianmihai.com/gameboy-color-burly-bear.html) 端口)
 *   [PostBot](https://github.com/MasterIV/PostBot)
-*   [枪械&骑手T3】](https://github.com/kanfor/gunsridersgameboy)
+*   [枪械&骑手 T3】](https://github.com/kanfor/gunsridersgameboy)
 *   [迪诺的离线冒险](https://github.com/gingemonster/DinosOfflineAdventure)——谷歌 Chrome 离线游戏的克隆版。
 *   [dino-gb](https://github.com/rnegron/dino-gb)——Chrome 游戏的另一个克隆版本。
 *   [Evoland.gb](https://github.com/flozz/evoland.gb) ——Evoland 的第一级端口。
-*   [Petris](https://github.com/bbbbbr/Petris)——一款以身材匀称的宠物为GameBoy色的益智游戏( [itch.io](https://bbbbbr.itch.io/petris) )。
+*   [Petris](https://github.com/bbbbbr/Petris)——一款以身材匀称的宠物为 GameBoy 色的益智游戏( [itch.io](https://bbbbbr.itch.io/petris) )。
 *   [Infinity](https://github.com/gb-archive/infinity-gbc) - RPG 主要由 Affinix 软件在 1999 年至 2001 年间开发。游戏一直没有找到发行商，最终被取消。最近发布了完整的源代码、开发工具和工作流程。
-*   [黑城堡](https://gbdev.gg8.se/forums/viewtopic.php?id=743)——GameBoy的侧滚平台( [itch.io](https://user0x7f.itch.io/black-castle) )。
+*   [黑城堡](https://gbdev.gg8.se/forums/viewtopic.php?id=743)——GameBoy 的侧滚平台( [itch.io](https://user0x7f.itch.io/black-castle) )。
 *   [创世纪](https://gbdev.gg8.se/forums/viewtopic.php?id=674)-Shmup for the Game Boy([itch . io](https://user0x7f.itch.io/genesis) )。
 *   [无损坦克！](https://antonylavelle.itch.io/indestructotank-gb)
 *   [Super JetPak DX](https://pocketpixel.design/super-jetpak-dx-game-boy-rom.html)
-*   [Powa！](https://aiguanachein.itch.io/powa) -GameBoy的侧滚平台(彩色)( [ZGB 引擎](https://github.com/Zal0/ZGB/) )。
+*   [Powa！](https://aiguanachein.itch.io/powa) -GameBoy 的侧滚平台(彩色)( [ZGB 引擎](https://github.com/Zal0/ZGB/) )。
 *   [洞窟](https://thegreatgallus.itch.io/cavern-mvm-9) - ( [ZGB 引擎](https://github.com/Zal0/ZGB/) )。
 *   [蒙娜与女巫的帽子豪华](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ( [ZGB 引擎](https://github.com/Zal0/ZGB/) )。
 *   [弹跳球](https://gamejolt.com/games/the-bouncing-ball-gb/86699)
@@ -419,7 +419,7 @@
 
 *   [逆向工程柯比的幻境 2](https://ecc-comp.blogspot.it/2016/03/reverse-engineering-kirbys-dreamland-2.html)
 *   [pokemontools](https://github.com/pret/pokemon-reverse-engineering-tools)——一个 python 模块，为各种 Pokémon 游戏提供各种逆向工程组件。
-*   [用 radar 2逆向工程一个 Gameboy ROM](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2)——一个用 radar 2 逆向工程一个 Game Boy ROM 挑战的演练。
+*   [用 radar 2 逆向工程一个 Gameboy ROM](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2)——一个用 radar 2 逆向工程一个 Game Boy ROM 挑战的演练。
 *   [拆链接的觉醒](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/)——一系列关于拆链接的觉醒的博文 DX。
 *   [逆向工程 GameBoy 俄罗斯方块](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
 *   [DMA 劫持](https://gbdev.io/articles/dma_hijacking) ——一种简单的技术，允许你在大多数 GB/SGB/CGB 游戏中运行自定义代码，前提是你有 ACE 漏洞。
@@ -429,7 +429,7 @@
 *   [神奇宝贝红/蓝](https://github.com/pret/pokered)
 *   [神奇宝贝水晶](https://github.com/pret/pokecrystal)
 *   [神奇宝贝黄色](https://github.com/pret/pokeyellow)
-*   [神奇宝贝金银T3】](https://github.com/pret/pokegold)
+*   [神奇宝贝金银 T3】](https://github.com/pret/pokegold)
 *   [神奇宝贝弹球](https://github.com/pret/pokepinball)
 *   [神奇宝贝 TCG](https://github.com/pret/poketcg)
 *   [pokegold-Space World](https://github.com/pret/pokegold-spaceworld) - Pokémon 金银 1997 Space World demo。
@@ -472,8 +472,8 @@ Game Boy 打印机模拟(例如从相机中检索图像):
 *   [ArduinoBoy](https://github.com/trash80/Arduinoboy) -从 Arduino 到 Game Boy 的串行通信(MIDI)，用于 LittleSoundDJ、Nanoloop 和 mGB 等音乐应用。
 *   [papiGB](https://github.com/diegovalverde/papiGB) ——Game Boy 经典全功能 FPGA 从头实现。
 *   [fpgaboy](https://github.com/trun/fpgaboy) ——在 FPGA 上实现任天堂的游戏机。
-*   小猪  ——一个 LUA 驱动的人工智能，使用实验玩经典GameBoy颜色游戏。正在开发中。
-*   [鸵鸟](https://github.com/PumpMagic/ostrich) ——一个用 Swift 编写的GameBoy音响系统播放器。
+*   小猪  ——一个 LUA 驱动的人工智能，使用实验玩经典 GameBoy 颜色游戏。正在开发中。
+*   [鸵鸟](https://github.com/PumpMagic/ostrich) ——一个用 Swift 编写的 GameBoy 音响系统播放器。
 *   [mGB](https://github.com/trash80/mGB) -一个 Game Boy 卡带程序，使 Game Boy 能够充当完整的 MIDI 支持的声音模块。
 *   [GBVisualizer](https://github.com/LIJI32/GBVisualizer) ——演示两个未记录的 Game Boy 颜色寄存器的使用，昵称为 PCM12 (FF76)和 PCM34 (FF77)，可用于读取 4 个 APU 通道的当前 PCM 幅度。
 *   [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) ——基于 Arduino 的 GameBoy 卡带读写器。
